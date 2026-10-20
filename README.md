@@ -14,9 +14,9 @@ My name is Darius and I am a Frontend developer based in Ingolstadt.
 
 ## About Me
 
-- 👨🏽‍💻 Currently I am working as an Associate Software Engineer at
+- 👨🏽‍💻 Currently I am working as an Software Engineer at
   [MediaMarktSaturn](https://github.com/MediaMarktSaturn)
-- 🎨 I love designing - For example websites but most of the time Instagram posts - and solving problems
+- 🎨 I love designing - For example websites - and solving problems
 - ⛪️ In my free time I love to read the [Bible](https://www.bible.com/) and
   work as a volunteer in my local church:
   [Betania Ingolstadt](https://www.instagram.com/betaniaingolstadt)
